@@ -39,3 +39,10 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leepnujnooy&show_icons=true&theme=nightowl)
   
 </div>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="https://quotepics.com/wp-content/uploads/2018/02/Carl-Sagan-quote-For-small-creatures-such-as-we-the-vastness-is-bearable-only-through-love..jpg"/>
