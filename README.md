@@ -4,7 +4,7 @@
 <p align="center">😛(name) : 윤준필(Jun Peel Yoon)</p>
 <p align="center">🇰🇷(leave in) : 대한민국 서울(South Korea, Seoul)</p>
 <p align="center">🏫(graduated from) : 서울과학기술대학교(Seoul Nat'l University of Science & Technology)</p>
-<p align="center">📝(majoried in) : 산업공학(Industrial Engineering) </p>
+<p align="center">📝(majored in) : 산업공학(Industrial Engineering) </p>
 <br/>
 <br/>
 <br/>
